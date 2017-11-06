@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="privacy_last_seen" value="0" />
+    <int name="video_max_bitrate" value="5000" />
+    <string name="interface_font_size">0</string>
+    <string name="ph">7517325880</string>
+    <long name="contact_full_sync_wait" value="474725000" />
+    <int name="two_factor_auth_email_set" value="2" />
+    <long name="feature_sync_backoff" value="-1" />
+    <int name="privacy_status" value="0" />
+    <int name="document_limit_mb" value="100" />
+    <boolean name="show_all_contacts" value="false" />
+    <boolean name="wam_is_current_buffer_real_time" value="false" />
+    <string name="version">2.17.392</string>
+    <boolean name="mms4_image" value="true" />
+    <int name="c2dm_app_vers" value="452061" />
+    <long name="contact_sync_backoff" value="-1" />
+    <string name="registration_jid">447517325880</string>
+    <int name="logins_with_messages" value="0" />
+    <int name="image_max_kbytes" value="1024" />
+    <long name="client_server_time_diff" value="-1000" />
+    <boolean name="refresh_broadcast_lists" value="false" />
+    <int name="phonebook_null_cursor_count" value="0" />
+    <long name="last_contact_full_sync" value="1509719162526" />
+    <int name="status_image_quality" value="50" />
+    <boolean name="storage_usage_enabled" value="true" />
+    <boolean name="input_enter_send" value="false" />
+    <int name="privacy_profile_photo" value="0" />
+    <boolean name="conversation_gif_exoplayer" value="true" />
+    <string name="registration_failure_reason"></string>
+    <int name="registration_voice_code_length" value="6" />
+    <string name="c2dm_reg_id">ef4N7SCtpj8:APA91bEp3m5q9vqTOl9T5xXsJoF99IPRCg194D0lMB8E9-tOphKfQYW7tNIIKpdgaqab3jadupv6eaDXFm6087kTFVhWriZxtLpKw0C5wzSoGmGQJ5ih1_QumBdMSxCVmvpWdIuXboSt</string>
+    <boolean name="gcm_fg_service" value="true" />
+    <long name="status_sync_backoff" value="-1" />
+    <boolean name="need_to_get_pre_key_digest" value="false" />
+    <int name="file_index" value="0" />
+    <int name="heartbeat_interval_seconds" value="86400" />
+    <int name="places_source" value="1" />
+    <int name="status_video_max_duration" value="30" />
+    <string name="data_usage_last_sync_date">2017-11-03</string>
+    <int name="perform_sync_manager_version" value="2" />
+    <boolean name="signal_protocol_store_is_new" value="false" />
+    <long name="last_feature_full_sync" value="1509719162535" />
+    <boolean name="need_to_get_groups" value="false" />
+    <long name="last_business_full_sync" value="1509719162535" />
+    <boolean name="mms4_doc" value="true" />
+    <long name="spam_banned_expiry_timestamp" value="0" />
+    <long name="business_full_sync_wait" value="287069000" />
+    <boolean name="media_view_exoplayer" value="true" />
+    <boolean name="mms4_video" value="true" />
+    <long name="groups_server_props_last_refresh_time" value="1509719132215" />
+    <long name="last_heartbeat_login" value="1509716846928" />
+    <int name="status_image_max_edge" value="1280" />
+    <int name="media_limit_auto_download_mb" value="32" />
+    <long name="phoneid_timestamp" value="1509719131381" />
+    <int name="registration_sms_code_length" value="6" />
+    <boolean name="force_long_connect" value="false" />
+    <string name="routing_info_dns">sl</string>
+    <boolean name="voip_low_data_usage" value="false" />
+    <string name="phoneid_id">cc2cb19e-6bf8-4026-a0d7-d60749163c51</string>
+    <int name="max_keys" value="812" />
+    <long name="last_status_full_sync" value="1509719162532" />
+    <int name="gif_provider" value="2" />
+    <int name="fieldstats_sis" value="300" />
+    <string name="settings_language">0</string>
+    <string name="web_contact_checksum">xXnNKyuBMQ8OuKMC
+    </string>
+    <int name="image_quality" value="80" />
+    <int name="group_number_limit" value="9999" />
+    <boolean name="media_view_streaming" value="true" />
+    <int name="registration_state" value="3" />
+    <boolean name="new_jid" value="true" />
+    <long name="wa_last_reminder_timestamp" value="1509719130458" />
+    <boolean name="spam_banned" value="false" />
+    <long name="gdrive_next_prompt_for_setup_timestamp" value="1510323929611" />
+    <string name="routing_info">CAA</string>
+    <int name="year_class_cached_value_pref" value="2012" />
+    <int name="media_limit_mb" value="64" />
+    <string name="cc">44</string>
+    <boolean name="location_enabled" value="true" />
+    <int name="subject_length_limit" value="25" />
+    <boolean name="media_view_gif_exoplayer" value="true" />
+    <int name="profile_photo_thumb_id" value="-1" />
+    <boolean name="mms4_audio" value="true" />
+    <boolean name="mms4_gif" value="true" />
+    <int name="participants_size_limit" value="257" />
+    <boolean name="read_receipts_enabled" value="true" />
+    <int name="current_data_action_string_version" value="4" />
+    <boolean name="mms4_ptt" value="true" />
+    <boolean name="media_filter_ui_enabled" value="true" />
+    <int name="server_props:last_version" value="21" />
+    <boolean name="quick_reply_enabled" value="true" />
+    <long name="dithered_last_signed_prekey_rotation" value="1508744193926" />
+    <string name="registration_code">833520</string>
+    <string name="com.whatsapp.registration.RegisterPhone.mistyped_state">6</string>
+    <int name="gdrive_max_concurrent_reads" value="4" />
+    <int name="contact_version" value="25" />
+    <long name="client_version_upgrade_timestamp" value="1509718776839" />
+    <int name="image_max_edge" value="1600" />
+    <string name="push_name">Facursor</string>
+    <long name="status_full_sync_wait" value="546452000" />
+    <string name="file_date">20171103</string>
+    <long name="business_sync_backoff" value="-1" />
+    <int name="profile_photo_full_id" value="-1" />
+</map>
